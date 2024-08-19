@@ -1,0 +1,6 @@
+[book]
+authors = ["kka"]
+language = "en"
+multilingual = false
+src = "src"
+title = "awesome-tutorial"
