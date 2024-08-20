@@ -1,4 +1,4 @@
 # todolist
 
-- [ ] mdbook
-- [x] Hugobook
+- [x] mdbook
+- [ ] git
